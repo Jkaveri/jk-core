@@ -1,0 +1,1 @@
+core for map object to db like Linq or Nhibernate
